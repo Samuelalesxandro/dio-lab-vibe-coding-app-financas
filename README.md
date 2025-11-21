@@ -16,7 +16,7 @@ Resolver o problema de controle financeiro manual e cansativo, oferecendo uma ex
 4. Teste fluxos de tela no Lovable.
 
 ## Estrutura do Repositório
-- `PRD_App_Financas_IA.docx`: Documento com requisitos e prompts.
+- `PRD_App_Financas_IA.docx`: 
 - `prints/`: Imagens das interações com IA.
 - `README.md`: Este arquivo.
 
